@@ -8,4 +8,8 @@ int main(){
     /* float b = 1.1;
        int * q;
        q = &b; Error */
+    printf("\n");
+
+    int b = 20 , * q = &b;
+    printf("%d",b);
 }
