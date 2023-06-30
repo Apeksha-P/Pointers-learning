@@ -11,5 +11,5 @@ int main(){
     printf("\n");
 
     int b = 20 , * q = &b;
-    printf("%d",b);
+    printf("%d",q);  //print address of b 
 }
