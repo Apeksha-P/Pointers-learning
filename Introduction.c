@@ -4,4 +4,8 @@ int main(){
     int * p ; //decleare pointer
     p = &a; //initialize pointer
     printf("%d",*p);
+
+    /* float b = 1.1;
+       int * q;
+       q = &b; Error */
 }
